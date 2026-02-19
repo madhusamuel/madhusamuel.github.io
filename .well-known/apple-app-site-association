@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["S82FN2QCV4.com.madhu.testOTP"],
+        "components": [
+          { "/": "/test" }
+        ]
+      }
+    ]
+  }
+}
