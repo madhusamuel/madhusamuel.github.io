@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["S82FN2QCV4.com.madhu.testOTP"],
+        "appIDs": ["BS53H4K7Z4.com.test.testOTP"],
         "components": [
           { "/": "/test" }
         ]
